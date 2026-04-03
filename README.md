@@ -87,8 +87,7 @@ The dataset was cleaned, transformed, and modeled to support cross-country and s
 ---
 
 ## 📁 Files Included
-- Global Breast Cancer Analysis Report (PDF)  
-- Power BI Dashboard (.pbix)  
+- Global Breast Cancer Analysis Report (PDF)
 - Dataset  
 
 ---
