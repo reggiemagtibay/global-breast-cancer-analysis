@@ -40,11 +40,11 @@ Without these insights, it becomes difficult to allocate resources effectively a
 
 ## 🧠 Key Insights
 
-- Survival declines significantly as cancer progresses across all income groups  
-- High-income regions maintain near-perfect early-stage survival (~99.5%), while low-income regions start lower (~82%) and decline more sharply  
-- By Stage IV, survival drops to ~28% in high-income regions and as low as ~5% in low-income regions, highlighting a widening inequality gap  
-- Early detection strongly correlates with screening coverage, with high-income countries exceeding 65% detection while lower-income regions remain below 40%  
-- Treatment access becomes a critical factor in later stages, significantly impacting survival outcomes  
+- Survival rates decline sharply as cancer progresses, with significantly wider gaps in later stages  
+- High-income regions maintain near-perfect survival in early stages (~99.5%), while low-income regions experience both lower starting points and steeper declines  
+- The survival gap becomes most pronounced in Stage IV, highlighting critical inequality in access to advanced treatment  
+- Countries with higher screening coverage consistently achieve better early detection rates, reinforcing the importance of screening infrastructure  
+- Treatment access and complexity play a decisive role in survival outcomes, particularly in advanced stages where intervention is critical
 
 ---
 
