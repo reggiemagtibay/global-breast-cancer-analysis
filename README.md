@@ -1,5 +1,9 @@
 # 🌍 Global Breast Cancer Outcomes Analysis
 
+> A data-driven analysis of how early detection and treatment access shape global breast cancer survival outcomes.
+
+---
+
 ## 📌 Overview
 This project analyzes global breast cancer outcomes to understand how early detection, treatment access, and healthcare infrastructure influence survival rates across countries.
 
